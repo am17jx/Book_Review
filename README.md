@@ -1,16 +1,12 @@
-# Book_API: A Robust API for Managing Books, Comments, and Tags
+# Book_Review: A Robust API for Managing Books, Comments, and Tags
 
-<p align="center">
-  <strong>A powerful and secure API for managing books, users, comments, and tags.</strong>
-  <br />
-  <br />
-  <a href="#✨-key-features"><strong>Explore Features »</strong></a>
-  ·
-  <a href="#⚙️-api-endpoints"><strong>API Docs »</strong></a>
-  ·
-  <a href="# 🧪 How to Run the Project"><strong>How to Run »</strong></a>
-</p>
 
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-4.x-blue.svg)](https://expressjs.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-purple.svg)](https://www.postgresql.org/)
+[![JWT](https://img.shields.io/badge/JWT-Authentication-orange.svg)](https://jwt.io/)
+
+A powerful and secure API for managing books, users, comments, and tags. This project is built using Node.js, the Express.js framework, and a PostgreSQL database, with a strong focus on security and efficient error handling.
 ---
 
 ## 🚀 About The Project
