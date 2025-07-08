@@ -8,7 +8,7 @@
   ·
   <a href="#⚙️-api-endpoints"><strong>API Docs »</strong></a>
   ·
-  <a href="#🏁-setup-and-installation"><strong>How to Run »</strong></a>
+  <a href="# 🧪 How to Run the Project"><strong>How to Run »</strong></a>
 </p>
 
 ---
@@ -139,13 +139,36 @@ Ensure you have the following installed on your machine:
         ```
     * **Crucially:** Add `.env` to your `.gitignore` file to prevent it from being pushed to GitHub.
 
-### Running the Application
+## 🧪 How to Run the Project
 
-To start the server in development mode:
+Once you've completed the setup and installed all dependencies, you can run the project using the following command:
+
 ```bash
 npm start
+```
 
-## 🚀 Features
+This will start the server on the port specified in your `.env` file (default is `3000`).  
+You should see an output similar to:
+
+```
+Server is running on http://localhost:3000
+```
+
+---
+
+## 🧪 Testing the API
+
+You can test the API using:
+
+- ✅ **Postman** or **Insomnia** for making HTTP requests to endpoints.
+- ✅ Import the routes from the documentation in this `README.md`.
+- ✅ Make sure to include the JWT token in the `Authorization` header for protected routes:
+  ```
+  Authorization: Bearer <your_token_here>
+  ```
+
+
+### 🚀 Features
 
 | Feature | Description |
 | :--- | :--- |
